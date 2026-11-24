@@ -110,6 +110,7 @@ section {
 h2 { margin: 0 0 14px; font-size: clamp(1.5rem, 2.6vw, 1.9rem); }
 
 section p { margin: 0; max-width: 40em; }
+section p + p { margin-top: 1em; }
 
 .contact { font-size: 1.08rem; }
 
